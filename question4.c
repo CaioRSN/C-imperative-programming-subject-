@@ -1,3 +1,8 @@
+// Problem: Generate a dynamic upward-pointing arrow ASCII art inside an N x N grid.
+// The background is filled with '#' and the arrow with '.'.
+// The arrow consists of a triangle head and a straight stem, aligned to the center
+// (adjusted for odd/even N dimensions).
+
 #include <stdio.h>
 
 int main(){
