@@ -1,3 +1,6 @@
+// Problem: Validate a given calendar date (day, month, year) between 1900 and 2100,
+// accounting for months with different days and leap year rules.
+
 #include <stdio.h>
 
 
