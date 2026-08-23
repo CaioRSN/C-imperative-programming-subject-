@@ -1,3 +1,6 @@
+// Problem: Calculate energy paths (direct vs. via P2) using station values and a vital code bonus,
+// then choose the optimal path and output Xupenio's performance classification based on final energy.
+
 #include <stdio.h>
 
 
