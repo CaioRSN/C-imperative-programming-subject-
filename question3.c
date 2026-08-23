@@ -1,3 +1,5 @@
+// Problem: Calculate prize distribution based on percentages, handle remainder rules with Rebeka's investment options (letters or ages), and determine if she gets enough bus fare to return home.
+
 #include <stdio.h>
 
 main() {
