@@ -1,3 +1,6 @@
+// Problem: Reverse consecutive non-zero elements (blocks) in-place in an array using a helper function, keeping zeros fixed.
+
+
 #include <stdio.h>
 
 void inveter(int vetor_elem[], int bloco[], int tam_bloco, int pos_inicio){
