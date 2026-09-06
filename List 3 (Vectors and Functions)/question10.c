@@ -1,3 +1,6 @@
+// Problem: Implement a grid-based Snake game simulator in C.
+// Handle direction updates (W/A/S/D), track head and body segments, handle food consumption/growth, and detect wall or self-collisions.
+
 #include <stdio.h>
 
 int distanciakk (int pos_cobrinha_x, int pos_cobrinha_y, int pos_fruta_x, int pos_fruta_y){

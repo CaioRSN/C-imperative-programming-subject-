@@ -1,3 +1,6 @@
+// Problem: Build a C centroid-based classifier for a 3-class plant dataset (4 features each).
+// Compute class centroids during training, assign test samples to the nearest centroid using squared distance, and print predictions and accuracy without <math.h>.
+
 #include <stdio.h>
 
 void ler_dataset(float caule[], float folha[], float raiz[], float broto[], int rotulos[], int n){
