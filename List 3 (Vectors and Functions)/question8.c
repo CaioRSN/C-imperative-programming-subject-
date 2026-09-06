@@ -1,3 +1,6 @@
+// Problem: Caesar cipher for numeric digits (encode/decode) with a checksum calculation and secur
+
+
 #include <stdio.h>
 
 void codificacao(int vetor_digitos[], int quant_dig, int deslocamento){
