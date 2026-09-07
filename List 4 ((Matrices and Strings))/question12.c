@@ -1,3 +1,7 @@
+// Problem: Word Search Solver
+// Locate target words within a 2D grid across all 8 directions using movement vectors, bounds checking, and direction names.
+
+
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>

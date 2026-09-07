@@ -1,3 +1,6 @@
+// Problem: Laser Lab Simulation
+// Simulate a light beam traversing a grid: mark visited paths with '*', bounce off mirrors ('/' and '\' - escaped in C), and terminate at boundaries or obstacles ('#').
+
 #include <stdio.h>
 #include <string.h>
 

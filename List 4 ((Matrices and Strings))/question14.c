@@ -1,3 +1,6 @@
+// Problem: Direction Command Parser
+// Convert text-based movement commands (e.g., "CIMA", "DIREITA") into 2D directional vector offsets (dl, dc) using string comparisons.
+
 #include <stdio.h>
 #include <string.h>
 
